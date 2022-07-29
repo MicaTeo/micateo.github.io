@@ -1,5 +1,5 @@
 ---
-title: "The 13th International Conference on Bayesian Nonparametrics (BNP 13) 2022"
+title: "[The 13th International Conference on Bayesian Nonparametrics (BNP 13) 2022](https://midas.mat.uc.cl/bnp13/)"
 collection: talks
 type: "Poster"
 venue: "Hotel Cumbres"

@@ -17,6 +17,9 @@ Education
 
 Awards
 ======
+* [2022] BNP13 Travel Grant
+* [2022] ISBA World Meeting Travel Grant
+* [2022] BNP Networking Workshop Travel Grant
 * [2018-2022] EPSRC Ph.D funding
 * [2014-2018] MyBrainSc Scholarship
 

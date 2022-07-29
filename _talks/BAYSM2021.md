@@ -1,5 +1,5 @@
 ---
-title: "The Bayesian Young Statisticians Meeting (BAYSM) 2021"
+title: "[The Bayesian Young Statisticians Meeting (BAYSM) 2021](https://events.stat.uconn.edu/BAYSM2021/ )"
 collection: talks
 type: "Talk"
 venue: "Zoom"
