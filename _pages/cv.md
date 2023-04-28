@@ -11,7 +11,7 @@ redirect_from:
 
 Education
 ======
-* [2019-2022] PhD in Data Science, University of Edinburgh, UK 
+* [2019-2023] PhD in Data Science, University of Edinburgh, UK 
 * [2018-2019] MSc(R) Data Science, University of Edinburgh, UK 
 * [2014-2018] BSc Hons Mathematics, University of Edinburgh, UK 
 
